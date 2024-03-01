@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2024-03-01
+
+### Features
+
+- [Display full art on preview and details on full view.](https://github.com/fourjuaneight/scryfall-search/commit/497561679075144ba1635dcb0076842ebee05319)
+
+### Miscellaneous Tasks
+
+- [Update Changelog.](https://github.com/fourjuaneight/scryfall-search/commit/7838e429d1292fffd20b4d0787cb978bc76d207a)
+
 ## [1.0.0] - 2024-02-29
 
 ### Features
